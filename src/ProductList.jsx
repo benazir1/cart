@@ -12,7 +12,7 @@ function ProductList() {
         {
             products.map((productItem,Productindex)=>{
                    return(
-                    <div  className="b1" style={{width:'50%'}} align-item="center">
+                    <div  className="b1" style={{width:'33%'}} align-item="center">
                       
                         <div className='product-item'>
                         
